@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+  <circle cx="150" cy="150" r="100" fill="#D32F2F" stroke="#000" stroke_width="5"/>
+  <polygon points="120,60 130,90 150,70 170,90 180,60" fill="#B71C1C"/>
+  <text x="150" y="165" fill="#FFEB3B" font_size="48" font_family="Arial" text_anchor="middle">אבש</text>
+</svg>
